@@ -46,22 +46,9 @@ By Using knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that d
 
 By Using knowledge of HTML and Bootstrap customize the webpage for dashboard.
 ### style.css code
-Code and Image:
-body {
-    color: #000000;
-    background-color: rgb(255, 255, 255);
-}
 
-.tag {
-    font-family: inherit;
-    font-size: 1rem;
-}
+![image](https://user-images.githubusercontent.com/80365882/120754852-0f0ad600-c4c2-11eb-9b78-6d8e3b8e0805.png)
 
-.jumbotron {
-    background-image: url("../images/Belly Button Biodiversity.PNG");
-    background-size: 100% 100%;
-    text-align: center;
-}
 
 ### When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.
 ![image](https://user-images.githubusercontent.com/80365882/120753201-ac183f80-c4bf-11eb-97f1-ce2ae3b0d64e.png)
