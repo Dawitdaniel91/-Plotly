@@ -18,7 +18,7 @@ Software: ES6+, ECMAScript and Visual Studio Code 1.50.0
 By using knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
 
 ### Horizontal Bar Chart image:
-https://github.com/Dawitdaniel91/-Plotly/blob/main/Horizontal%20Chart.png
+![image](https://user-images.githubusercontent.com/80365882/120754175-25fcf880-c4c1-11eb-8007-9eb9740f3911.png)
 
 ## Deliverable 2: Create a Bubble Chart
 By Using knowledge of JavaScript, Plotly, and D3.js, create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:
@@ -31,13 +31,13 @@ The otu_labels as the hover-text values.
 
 ### bubble chart Chart image:
 
-https://github.com/Dawitdaniel91/-Plotly/blob/main/BubleChart1.png
+![image](https://user-images.githubusercontent.com/80365882/120754220-344b1480-c4c1-11eb-9629-4fc84049e67c.png)
 
 ### Deliverable 3: Create a Gauge Chart
 By Using knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
 ### gauge chart image: 
-https://github.com/Dawitdaniel91/-Plotly/blob/main/BullyButton.png
+![image](https://user-images.githubusercontent.com/80365882/120754248-41680380-c4c1-11eb-92e3-1c7094aaf3d7.png)
 
 ## Deliverable 4: Customize the Dashboard
 
