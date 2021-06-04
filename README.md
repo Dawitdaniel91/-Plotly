@@ -7,7 +7,7 @@ Deliverable 1: Create a Horizontal Bar Chart
 Deliverable 2: Create a Bubble Chart
 Deliverable 3: Create a Gauge Chart
 Deliverable 4: Customize the Dashboard
-Deliverable 5: A written report on the Belly Button Biodiversity Dashboard analysis README.md.
+
 
 # Resources
 Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js and index.html
