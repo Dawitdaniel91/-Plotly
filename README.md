@@ -4,8 +4,11 @@
 The purpose of this project is to visualize the bacterial data for each volunteer.The volunteers are should be able to identify the top 10 bacterial species in their belly buttons.
 ## The project outline
 Deliverable 1: Create a Horizontal Bar Chart
+
 Deliverable 2: Create a Bubble Chart
+
 Deliverable 3: Create a Gauge Chart
+
 Deliverable 4: Customize the Dashboard
 
 
