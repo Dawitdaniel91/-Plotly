@@ -1,0 +1,25 @@
+body {
+    /* color: #000000; */
+    background-color: #0d9900;
+    background-size: rgba(34, 12, 64, 0.6);
+}
+
+div {
+    background-color: azure;
+}
+
+h1 {
+    background-color: #0d9900;
+}
+
+.tag {
+    font-family: inherit;
+    font-size: 1rem;
+}
+
+.jumbotron {
+    background-image: url("../images/Belly Button Biodiversity.PNG");
+    background-size: 100% 100%;
+    text-align: center;
+    background-color: #0d9900;
+}
