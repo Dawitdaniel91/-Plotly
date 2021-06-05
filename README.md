@@ -55,7 +55,7 @@ By Using knowledge of HTML and Bootstrap customize the webpage for dashboard.
 
 ### When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements.
 
-![image](https://user-images.githubusercontent.com/80365882/120754001-e7ffd480-c4c0-11eb-9d48-e1351a9e565b.png)
+![image](https://user-images.githubusercontent.com/80365882/120906603-b2b5cc80-c60f-11eb-861e-b05ee62942cc.png)
 
 
 
