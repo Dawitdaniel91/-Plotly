@@ -51,7 +51,7 @@ By Using knowledge of HTML and Bootstrap customize the webpage for dashboard.
 
 
 ### When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.
-![image](https://user-images.githubusercontent.com/80365882/120753201-ac183f80-c4bf-11eb-97f1-ce2ae3b0d64e.png)
+![image](https://user-images.githubusercontent.com/80365882/120906384-db3cc700-c60d-11eb-9320-c5afe576dcb2.png)
 
 ### When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements.
 
